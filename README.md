@@ -60,5 +60,6 @@ In the code cell below, we save the file paths for both the human (LFW) dataset 
 
 Remark: All examples have been implemented in PyTorch
 
-## Requirements
-* t. b. d.
+## Dependencies
+* Overview on [imported libraries and tools](imported_libraries_and_tools.txt)
+* [Virtual environment](virtual_environment.txt) used for this little project
