@@ -1,4 +1,5 @@
 jupyter
+ipykernel
 opencv-python
 cython
 numpy
@@ -7,11 +8,6 @@ pandas
 pillow
 scipy
 tqdm
-scikit-learn
-scikit-image
-seaborn
-h5py
-ipykernel
 bokeh
 pickleshare
 glob3
